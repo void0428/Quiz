@@ -1,227 +1,3284 @@
 {
   "subject": "Sample Subject",
   "questions": [
-    { "id": 1, "question": "Which of the following is an artificial adventure activity?", "options": ["Trekking", "Paragliding", "Go-Karting", "River rafting"], "correctOptionIndex": 2 },
-    { "id": 2, "question": "Artificial wall climbing is performed on:", "options": ["Natural rocks", "Man-made walls", "Tree trunks", "Mountain slopes"], "correctOptionIndex": 1 },
-    { "id": 3, "question": "Which activity uses a ‘FlowRider’ machine?", "options": ["Indoor skiing", "Artificial surfing", "Skydiving", "Laser tag"], "correctOptionIndex": 1 },
-    { "id": 4, "question": "Which is an indoor air-based artificial activity?", "options": ["Hot air balloon ride", "Indoor skydiving", "Ziplining", "Hang gliding"], "correctOptionIndex": 1 },
-    { "id": 5, "question": "Paintball is played using:", "options": ["Water guns", "Color pellets", "Rubber bullets", "Real arrows"], "correctOptionIndex": 1 },
-    { "id": 6, "question": "Which of the following is NOT an artificial adventure activity?", "options": ["Reverse bungee", "Sky cycling", "Snow skiing in Snow World", "Trekking"], "correctOptionIndex": 3 },
-    { "id": 7, "question": "Laser Tag is conducted in:", "options": ["Forest areas", "Indoor arenas", "Hill stations", "Beaches"], "correctOptionIndex": 1 },
-    { "id": 8, "question": "Artificial water adventure activity includes:", "options": ["Surfing in ocean", "Scuba diving", "Wave-pool surfing", "Kayaking"], "correctOptionIndex": 2 },
-    { "id": 9, "question": "The machine used for indoor skydiving is:", "options": ["Wind tunnel", "Parachute", "Jet pack", "Helicopter fan"], "correctOptionIndex": 0 },
-    { "id": 10, "question": "Which of the following requires safety harness?", "options": ["Go-karting", "Rope course", "Laser tag", "Paintball"], "correctOptionIndex": 1 },
-  
-    { "id": 11, "question": "Della Adventure Park is located in:", "options": ["Pune", "Lonavala", "Nashik", "Mumbai"], "correctOptionIndex": 1 },
-    { "id": 12, "question": "Which Indian city has ‘Snow World’?", "options": ["Jaipur", "Hyderabad", "Indore", "Shimla"], "correctOptionIndex": 1 },
-    { "id": 13, "question": "Which activity is famous at Imagica Theme Park?", "options": ["Ice climbing", "High-speed roller coasters", "Desert safari", "Mountain trekking"], "correctOptionIndex": 1 },
-    { "id": 14, "question": "Sky Cycling in India is mostly found in:", "options": ["Adventure parks", "Beaches", "Forests", "Zoos"], "correctOptionIndex": 0 },
-    { "id": 15, "question": "Which artificial activity is offered at Snow Adventure Zone, Mussoorie?", "options": ["Skiing", "Skywalk", "Bungee jumping", "Rock climbing"], "correctOptionIndex": 1 },
-    { "id": 16, "question": "Paintball arenas in India are commonly found in:", "options": ["Metro cities", "Hill stations", "Beaches", "Wildlife sanctuaries"], "correctOptionIndex": 0 },
-    { "id": 17, "question": "Go-karting tracks are usually built:", "options": ["On hills", "On flat artificial tracks", "On ice tracks", "On sandy areas"], "correctOptionIndex": 1 },
-    { "id": 18, "question": "Which Indian city is known for indoor skydiving-like experiences?", "options": ["Pune", "Delhi NCR", "Chennai", "Bhopal"], "correctOptionIndex": 1 },
-    { "id": 19, "question": "Artificial surfing is mostly available in:", "options": ["Lakshadweep", "Water parks", "Himalayan villages", "Hot springs"], "correctOptionIndex": 1 },
-    { "id": 20, "question": "Artificial climbing walls are commonly installed in:", "options": ["Gyms and malls", "Restaurants", "Railway stations", "Hospitals"], "correctOptionIndex": 0 },
-  
-    { "id": 21, "question": "Which equipment is essential for rope course activities?", "options": ["Seat belt", "Safety harness", "Umbrella", "Snorkel"], "correctOptionIndex": 1 },
-    { "id": 22, "question": "What is worn on the face during paintball?", "options": ["Sunglasses", "Protective mask", "Helmet only", "Ski goggles"], "correctOptionIndex": 1 },
-    { "id": 23, "question": "Go-karting requires:", "options": ["Life jacket", "Helmet", "Ice shoes", "Parachute"], "correctOptionIndex": 1 },
-    { "id": 24, "question": "Wind tunnels simulate:", "options": ["Water currents", "Air free-fall", "Desert winds", "Mountain air"], "correctOptionIndex": 1 },
-    { "id": 25, "question": "Reverse bungee uses:", "options": ["Elastic cords", "Wooden beams", "Hot air", "Water pressure"], "correctOptionIndex": 0 },
-    { "id": 26, "question": "Laser tag guns use:", "options": ["Bullets", "Light beams", "Paint", "Rubber pellets"], "correctOptionIndex": 1 },
-    { "id": 27, "question": "Artificial skiing uses:", "options": ["Real snow only", "Synthetic snow or ice", "Sand", "Wooden surface"], "correctOptionIndex": 1 },
-    { "id": 28, "question": "Zorbing involves rolling inside:", "options": ["Wooden barrel", "Inflatable ball", "Rubber tube", "Plastic box"], "correctOptionIndex": 1 },
-    { "id": 29, "question": "Indoor adventure parks use:", "options": ["Artificial lighting", "Artificial equipment", "Both (a) and (b)", "Only natural structures"], "correctOptionIndex": 2 },
-    { "id": 30, "question": "FlowRider helps practice:", "options": ["Surfing", "Mountain biking", "Skydiving", "Skiing"], "correctOptionIndex": 0 },
-  
-    { "id": 31, "question": "Which adventure park in India offers a 'Swoop Swing'?", "options": ["Ramoji Film City", "Della Adventure", "Essel World", "Snow City"], "correctOptionIndex": 1 },
-    { "id": 32, "question": "Laser tag is best suitable for:", "options": ["Indoor stadium", "Open jungle", "Desert dunes", "Beaches"], "correctOptionIndex": 0 },
-    { "id": 33, "question": "Imagica's water park specializes in:", "options": ["River rafting", "Artificial slides", "Ice skating", "Cave diving"], "correctOptionIndex": 1 },
-    { "id": 34, "question": "Sky cycling works on:", "options": ["Air balloons", "Tight cables", "Forest trails", "Electric tracks"], "correctOptionIndex": 1 },
-    { "id": 35, "question": "Human gyroscope rides are seen in:", "options": ["Science museums", "Adventure parks", "Schools", "Train stations"], "correctOptionIndex": 1 },
-    { "id": 36, "question": "Go-karting speed depends on:", "options": ["Engine power", "Shoes", "Helmet", "Location"], "correctOptionIndex": 0 },
-    { "id": 37, "question": "Which activity is mostly performed inside a snow dome?", "options": ["Boating", "Skiing", "Desert biking", "Paragliding"], "correctOptionIndex": 1 },
-    { "id": 38, "question": "Artificial rapids are found in:", "options": ["Water parks", "Wildlife sanctuaries", "Desert camps", "Hill forests"], "correctOptionIndex": 0 },
-    { "id": 39, "question": "The term ‘kart’ refers to:", "options": ["Boat", "Small 4-wheel vehicle", "Bicycle", "Skates"], "correctOptionIndex": 1 },
-    { "id": 40, "question": "Rope course difficulty depends on:", "options": ["Age", "Height & obstacles", "Shoes", "Weather"], "correctOptionIndex": 1 },
-  
-    { "id": 41, "question": "Which artificial adventure uses harness + bicycle?", "options": ["Skywalk", "Sky cycling", "Zorbing", "Paintball"], "correctOptionIndex": 1 },
-    { "id": 42, "question": "Bungee trampoline is for:", "options": ["Adults only", "Children only", "Both adults and kids", "Only senior citizens"], "correctOptionIndex": 2 },
-    { "id": 43, "question": "Which artificial activity is performed on trampolines?", "options": ["Snow skating", "Backflips & jumps", "Cycling", "Swimming"], "correctOptionIndex": 1 },
-    { "id": 44, "question": "Human foosball is inspired by:", "options": ["Football", "Cricket", "Kabaddi", "Cycling"], "correctOptionIndex": 0 },
-    { "id": 45, "question": "VR adventure zones are based on:", "options": ["Virtual Reality", "Real forests", "Mountain climbing", "Physical motors"], "correctOptionIndex": 0 },
-    { "id": 46, "question": "Artificial desert dune ride can be simulated using:", "options": ["VR tech", "Bicycle", "Snowboards", "Jet ski"], "correctOptionIndex": 0 },
-    { "id": 47, "question": "Ski India (Noida) mainly offers:", "options": ["Desert rides", "Snow adventure", "Scuba diving", "Trekking"], "correctOptionIndex": 1 },
-    { "id": 48, "question": "Which activity is best for groups?", "options": ["Paintball", "Solo sky cycling", "Bungee jump", "Indoor skiing"], "correctOptionIndex": 0 },
-    { "id": 49, "question": "Artificial adventure parks aim to provide:", "options": ["Controlled environment", "Natural risks", "Forest experience", "Desert climate"], "correctOptionIndex": 0 },
-    { "id": 50, "question": "The biggest advantage of artificial adventure activities is:", "options": ["Weather independent", "More dangerous", "Found only in mountains", "No safety rules"], "correctOptionIndex": 0 },
-  
-    { "id": 51, "question": "Theme parks are mainly known for providing ________.", "options": ["Natural adventure", "Artificial adventure", "Wildlife adventure", "Cultural adventure"], "correctOptionIndex": 1 },
-    { "id": 52, "question": "Which of the following is an example of a high-thrill ride?", "options": ["Merry-go-round", "Roller coaster", "Toy train", "Carousel"], "correctOptionIndex": 1 },
-    { "id": 53, "question": "The free-fall experience in a theme park is created by ________.", "options": ["Water slides", "Drop tower", "VR Games", "Swing chairs"], "correctOptionIndex": 1 },
-    { "id": 54, "question": "Zip line in a theme park is also called ________.", "options": ["River rafting", "Flying fox", "Sky swing", "Bungee slide"], "correctOptionIndex": 1 },
-    { "id": 55, "question": "What type of adventure does a 4D/5D simulator create?", "options": ["Real adventure", "Air adventure", "Virtual adventure", "Water adventure"], "correctOptionIndex": 2 },
-    { "id": 56, "question": "Imagicaa theme park is located near ________.", "options": ["Delhi", "Khopoli", "Jaipur", "Kolkata"], "correctOptionIndex": 1 },
-    { "id": 57, "question": "Which theme park is famous for the ride Nitro?", "options": ["Wonderla", "Nicco Park", "Imagicaa", "Ramoji Film City"], "correctOptionIndex": 2 },
-    { "id": 58, "question": "Water slides and wave pools are part of ________.", "options": ["Cultural tourism", "Water adventure", "Trekking", "Wildlife tourism"], "correctOptionIndex": 1 },
-    { "id": 59, "question": "Wonderla theme parks are located in:", "options": ["Delhi, Pune, Mumbai", "Kochi, Bangalore, Hyderabad", "Chennai, Goa, Jaipur", "Nagpur, Bhopal"], "correctOptionIndex": 1 },
-    { "id": 60, "question": "A theme park designed with cartoon characters represents ________ theme.", "options": ["Natural theme", "Fantasy theme", "Rural theme", "Tribal theme"], "correctOptionIndex": 1 },
-  
-    { "id": 61, "question": "Which activity is NOT found in theme parks?", "options": ["Roller coasters", "VR adventure", "Bungee jumping", "Elephant safari"], "correctOptionIndex": 3 },
-    { "id": 62, "question": "Kingdom of Dreams is located in ________.", "options": ["Bengaluru", "Gurgaon", "Chandigarh", "Indore"], "correctOptionIndex": 1 },
-    { "id": 63, "question": "Which international theme park is known for movie-based rides?", "options": ["Disneyland", "Universal Studios", "Nicco Park", "EsselWorld"], "correctOptionIndex": 1 },
-    { "id": 64, "question": "Ferrari World is famous for its ________.", "options": ["Cartoon shows", "Fastest roller coaster", "Animal safari", "Toy trains"], "correctOptionIndex": 1 },
-    { "id": 65, "question": "A haunted house in a theme park represents ________ theme.", "options": ["Adventure", "Horror", "Spiritual", "Cartoon"], "correctOptionIndex": 1 },
-    { "id": 66, "question": "EsselWorld is located in which Indian city?", "options": ["Kolkata", "Mumbai", "Chennai", "Lucknow"], "correctOptionIndex": 1 },
-    { "id": 67, "question": "Main purpose of adventure rides in theme parks:", "options": ["Education", "Entertainment & thrill", "Wildlife watching", "Religious activities"], "correctOptionIndex": 1 },
-    { "id": 68, "question": "VR adventure zones use ________.", "options": ["Food courts", "Headsets", "Boats", "Trains"], "correctOptionIndex": 1 },
-    { "id": 69, "question": "Which of the following is an adventure water ride?", "options": ["Carousel", "Wave pool", "Ferris wheel", "Sky wheel"], "correctOptionIndex": 1 },
-    { "id": 70, "question": "Ramoji Film City is famous for ________.", "options": ["Water rides", "Film sets & adventure zones", "Wildlife safari", "Temples"], "correctOptionIndex": 1 },
-  
-    { "id": 71, "question": "Rope courses and climbing walls belong to ________.", "options": ["Cultural activities", "Obstacle adventure", "Water adventure", "Space exploration"], "correctOptionIndex": 1 },
-    { "id": 72, "question": "Disneyland is based on ________.", "options": ["Bollywood", "Cartoon & fantasy worlds", "Wildlife", "Science museums"], "correctOptionIndex": 1 },
-    { "id": 73, "question": "A ride that spins at high speed is called ________.", "options": ["Carousel", "Scream Machine", "Monorail", "Train ride"], "correctOptionIndex": 1 },
-    { "id": 74, "question": "A dinosaur-themed attraction is an example of ________.", "options": ["Historical theme", "Prehistoric theme", "Musical theme", "Tribal theme"], "correctOptionIndex": 1 },
-    { "id": 75, "question": "Which theme park in Delhi NCR has both water and adventure rides?", "options": ["Wonderla", "EsselWorld", "Worlds of Wonder", "Imagicaa"], "correctOptionIndex": 2 },
-    { "id": 76, "question": "Which ride gives the experience of flying?", "options": ["Bumper cars", "Zip line", "Swing boat", "Toy train"], "correctOptionIndex": 1 },
-    { "id": 77, "question": "A roller coaster mainly works on ________.", "options": ["Gravity & speed", "Water flow", "Air pressure", "Electricity only"], "correctOptionIndex": 0 },
-    { "id": 78, "question": "Safest adventure zone for children:", "options": ["Haunted house", "VR gaming zone", "High-speed coaster", "Drop tower"], "correctOptionIndex": 1 },
-    { "id": 79, "question": "Theme parks attract tourists mainly because of ________.", "options": ["Historical monuments", "Thrill and fun activities", "Wildlife species", "Farms and fields"], "correctOptionIndex": 1 },
-    { "id": 80, "question": "The largest film-city-based theme park in India is ________.", "options": ["Imagicaa", "EsselWorld", "Ramoji Film City", "Nicco Park"], "correctOptionIndex": 2 },
-  
-    { "id": 81, "question": "What is an escape room mainly designed for?", "options": ["Cooking practice", "Puzzle solving and teamwork", "Dance performance", "Shopping activities"], "correctOptionIndex": 1 },
-    { "id": 82, "question": "How much time is usually given to complete an escape room?", "options": ["10–15 minutes", "30–45 minutes", "45–60 minutes", "2–3 hours"], "correctOptionIndex": 2 },
-    { "id": 83, "question": "Escape rooms are an example of ________.", "options": ["Natural adventure", "Artificial adventure activity", "Water adventure", "Wildlife activity"], "correctOptionIndex": 1 },
-    { "id": 84, "question": "Which of the following is commonly found in escape rooms?", "options": ["Roller coaster", "Beach games", "Hidden clues and puzzles", "River rafting"], "correctOptionIndex": 2 },
-    { "id": 85, "question": "Most important skill to win an escape room:", "options": ["Singing", "Teamwork", "Cooking", "Jumping"], "correctOptionIndex": 1 },
-    { "id": 86, "question": "Which theme is most common in escape rooms?", "options": ["Desert safari", "Haunted mystery", "Mountain trekking", "Space walk"], "correctOptionIndex": 1 },
-    { "id": 87, "question": "Escape rooms use ________ to create mystery.", "options": ["Loud music", "Codes, locks, and riddles", "Swimming pools", "Slides"], "correctOptionIndex": 1 },
-    { "id": 88, "question": "Where are escape rooms usually located?", "options": ["Forests", "Amusement parks only", "Cities and malls", "Beaches"], "correctOptionIndex": 2 },
-    { "id": 89, "question": "What happens if the team cannot solve the puzzles in time?", "options": ["They win automatically", "The time gets extended", "They fail the escape room", "They get a prize"], "correctOptionIndex": 2 },
-    { "id": 90, "question": "Which of the following is NOT a theme of an escape room?", "options": ["Prison break", "Crime investigation", "Treasure hunt", "Wildlife safari"], "correctOptionIndex": 3 },
-  
-    { "id": 91, "question": "Escape rooms help improve which skill?", "options": ["Yoga flexibility", "Communication", "Fishing", "Weightlifting"], "correctOptionIndex": 1 },
-    { "id": 92, "question": "The main objective in an escape room is to ________.", "options": ["Find a hidden object only", "Escape within the time limit", "Fight opponents", "Watch a movie"], "correctOptionIndex": 1 },
-    { "id": 93, "question": "Which tool is commonly used to open locks in escape rooms?", "options": ["Keys or number codes", "Hammers", "Knives", "Firecrackers"], "correctOptionIndex": 0 },
-    { "id": 94, "question": "Escape rooms use lighting and sound to create ________.", "options": ["Prices", "Atmosphere and mood", "Food stalls", "Maps of nature"], "correctOptionIndex": 1 },
-    { "id": 95, "question": "Which group mostly enjoys escape rooms?", "options": ["Teams and friends", "Animals", "Farmers", "Drivers"], "correctOptionIndex": 0 },
-    { "id": 96, "question": "A detective-style escape room is which type of adventure?", "options": ["Logical adventure", "Water adventure", "Air adventure", "Animal adventure"], "correctOptionIndex": 0 },
-    { "id": 97, "question": "What does the game master do?", "options": ["Leads the team", "Gives hints and monitors the game", "Performs magic tricks", "Sells tickets"], "correctOptionIndex": 1 },
-    { "id": 98, "question": "Escape rooms encourage players to think ________.", "options": ["Slowly", "Creatively and critically", "About food", "Only about prizes"], "correctOptionIndex": 1 },
-    { "id": 99, "question": "Which of these is a popular escape room brand in India?", "options": ["Mystery Rooms", "Water Kingdom", "Ranthambore Safari", "Wonderla"], "correctOptionIndex": 0 },
-    { "id": 100, "question": "Escape rooms fall under which tourism category?", "options": ["Adventure tourism", "Medical tourism", "Rural tourism", "Spiritual tourism"], "correctOptionIndex": 0 },
+    {
+      "id": 1,
+      "question": "What is the main function of an automobile body?",
+      "options": [
+        "Improve engine performance",
+        "Support electrical systems",
+        "Provide space for passengers and goods",
+        "Increase fuel consumption"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the term used for the lower part of the vehicle which includes the frame and suspension system?",
+      "options": ["Roof panel", "Chassis", "Bonnet", "Firewall"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Which part of the body separates the engine compartment from the passenger compartment?",
+      "options": ["Dash panel", "Firewall", "Bonnet", "Radiator grill"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "A Monocoque body construction means:",
+      "options": [
+        "The body and frame are separate",
+        "The body is built on a wooden frame",
+        "The body and chassis are integrated",
+        "The body is made only of plastic"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Which type of automobile body is commonly used in sports and racing cars?",
+      "options": ["Hatchback", "Convertible", "Coupe", "SUV"],
+      "correctOptionIndex": 2
+    },
 
-    { "id": 101, "question": "Paragliding mainly depends on which natural factor?", "options": ["River flow", "Thermal air currents", "Soil type", "Rainfall"], "correctOptionIndex": 1 },
-    { "id": 102, "question": "Bir Billing is famous for which activity?", "options": ["Skydiving", "Paragliding", "Ziplining", "Hang Gliding"], "correctOptionIndex": 1 },
-    { "id": 103, "question": "Which equipment is essential for paragliding?", "options": ["Oxygen mask", "Surfboard", "Parachute wing", "Snowboard"], "correctOptionIndex": 2 },
-    { "id": 104, "question": "Parasailing usually takes place over:", "options": ["Snow", "Water", "Desert", "Cave"], "correctOptionIndex": 1 },
-    { "id": 105, "question": "Which activity involves jumping from an aircraft at high altitude?", "options": ["Paramotoring", "Skydiving", "Zip lining", "Microlight flying"], "correctOptionIndex": 1 },
-    { "id": 106, "question": "In hot air ballooning, the balloon rises due to:", "options": ["Cool air", "Hot air inside the balloon", "Wind speed", "Pressure from below"], "correctOptionIndex": 1 },
-    { "id": 107, "question": "Which Indian state is famous for hot air ballooning?", "options": ["Rajasthan", "Assam", "Tamil Nadu", "Odisha"], "correctOptionIndex": 0 },
-    { "id": 108, "question": "Which is used for steering a hang glider?", "options": ["Pedals", "Body shifting", "Engine", "Tail rotor"], "correctOptionIndex": 1 },
-    { "id": 109, "question": "Where is Aamby Valley located?", "options": ["Rajasthan", "Maharashtra", "Gujarat", "Kerala"], "correctOptionIndex": 1 },
-    { "id": 110, "question": "The elastic cord used in Bungee Jumping is called:", "options": ["Rebound rope", "Bungee cord", "Safety knot", "Drop line"], "correctOptionIndex": 1 },
-  
-    { "id": 111, "question": "What is the landing gear used in paragliding?", "options": ["Wheels", "Shoes & ground run", "Skates", "Springs"], "correctOptionIndex": 1 },
-    { "id": 112, "question": "Mysore is famous for which air adventure?", "options": ["Skydiving", "Parasailing", "Zipline", "Microlight flights"], "correctOptionIndex": 0 },
-    { "id": 113, "question": "Which adventure sport uses a wicker basket?", "options": ["Hang gliding", "Hot air ballooning", "Sky diving", "Paragliding"], "correctOptionIndex": 1 },
-    { "id": 114, "question": "Zip lining uses which equipment?", "options": ["Pulley", "Surf board", "Oxygen tank", "Wingsuit"], "correctOptionIndex": 0 },
-    { "id": 115, "question": "Paramotoring includes:", "options": ["Motor + paraglider wing", "Hot air + balloon", "Rope + pulley", "Engine + parachute"], "correctOptionIndex": 0 },
-    { "id": 116, "question": "Which is the safest for beginners?", "options": ["Solo skydiving", "Tandem paragliding", "Wing walking", "BASE jumping"], "correctOptionIndex": 1 },
-    { "id": 117, "question": "BASE jumping is usually performed from:", "options": ["Airplane", "Helicopter", "Fixed structures", "Cable cars"], "correctOptionIndex": 2 },
-    { "id": 118, "question": "Which is NOT an air-based activity?", "options": ["Rock climbing", "Paragliding", "Skydiving", "Hang gliding"], "correctOptionIndex": 0 },
-    { "id": 119, "question": "Which device measures altitude for skydivers?", "options": ["Variometer", "Altimeter", "Compass", "Hygrometer"], "correctOptionIndex": 1 },
-    { "id": 120, "question": "Kamshet is located in:", "options": ["Gujarat", "Maharashtra", "Punjab", "Goa"], "correctOptionIndex": 1 },
-  
-    { "id": 121, "question": "Which adventure uses a rotor but cannot hover like a helicopter?", "options": ["Gyrocopter", "Hot air balloon", "Hang glider", "Parasail"], "correctOptionIndex": 0 },
-    { "id": 122, "question": "Which adventure requires an instructor strapped behind the participant?", "options": ["Tandem paragliding", "Hang gliding", "Solo diving", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 123, "question": "What powers a hot air balloon?", "options": ["Propeller", "Gas burners", "Solar heat", "Wind"], "correctOptionIndex": 1 },
-    { "id": 124, "question": "Which place in India is known for paramotoring?", "options": ["Jaipur", "Shillong", "Kolkata", "Surat"], "correctOptionIndex": 0 },
-    { "id": 125, "question": "Which activity involves freefall from a tall structure?", "options": ["Parasailing", "Bungee jumping", "Hot air ballooning", "Gyrocopter ride"], "correctOptionIndex": 1 },
-    { "id": 126, "question": "In which activity do you hold a control bar to shift body weight?", "options": ["Hang gliding", "Zip lining", "Parasailing", "Skydiving"], "correctOptionIndex": 0 },
-    { "id": 127, "question": "A reserve parachute is carried during:", "options": ["Zip lining", "Paragliding", "Microlight flight", "Gyrocopter ride"], "correctOptionIndex": 1 },
-    { "id": 128, "question": "Which activity is NOT performed in India commonly?", "options": ["Wing walking", "Paragliding", "Hot air ballooning", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 129, "question": "Microlight flights usually carry:", "options": ["1 person", "2 persons", "5 persons", "10 persons"], "correctOptionIndex": 1 },
-    { "id": 130, "question": "Rishikesh is famous for:", "options": ["Bungee jumping", "Skydiving", "Hang gliding", "Hot air ballooning"], "correctOptionIndex": 0 },
-  
-    { "id": 131, "question": "Which adventure uses a canopy called a 'wing'?", "options": ["Paragliding", "Hot air ballooning", "Helicopter ride", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 132, "question": "Which state has Billing valley?", "options": ["Uttarakhand", "Himachal Pradesh", "Sikkim", "Assam"], "correctOptionIndex": 1 },
-    { "id": 133, "question": "Which sport gives the sensation of 'flying like a bird'?", "options": ["Paragliding", "Bungee jumping", "Skydiving", "Microlight"], "correctOptionIndex": 0 },
-    { "id": 134, "question": "The safety gear for zip lining includes:", "options": ["Gloves & helmet", "Oxygen mask", "Knee pads only", "None"], "correctOptionIndex": 0 },
-    { "id": 135, "question": "A parachute used in parasailing is attached to:", "options": ["Bike", "Jeep/boat", "Kite", "Jet ski only"], "correctOptionIndex": 1 },
-    { "id": 136, "question": "Which activity requires 'launch site & landing site'?", "options": ["Rock climbing", "Paragliding", "Cycling", "Jet skiing"], "correctOptionIndex": 1 },
-    { "id": 137, "question": "Which region in India offers snow paragliding?", "options": ["Odisha", "Manali", "Goa", "Mumbai"], "correctOptionIndex": 1 },
-    { "id": 138, "question": "Wingsuit flying is a form of:", "options": ["BASE jumping", "Hang gliding", "Ballooning", "Ziplining"], "correctOptionIndex": 0 },
-    { "id": 139, "question": "Variometer is used to measure:", "options": ["Wind direction", "Climb/sink rate", "Fuel capacity", "Heart rate"], "correctOptionIndex": 1 },
-    { "id": 140, "question": "Pushkar is famous for:", "options": ["Hot air ballooning", "Skydiving", "Paramotoring", "Zipline"], "correctOptionIndex": 0 },
-  
-    { "id": 141, "question": "Which activity uses a 'trike-style' aircraft?", "options": ["Microlight flying", "Parasailing", "Hang gliding", "Bungee jumping"], "correctOptionIndex": 0 },
-    { "id": 142, "question": "Which is the safest air adventure for children?", "options": ["Tandem hot air ballooning", "BASE jumping", "Wing walking", "Solo gliding"], "correctOptionIndex": 0 },
-    { "id": 143, "question": "Which activity requires the participant to run before takeoff?", "options": ["Paragliding", "Zip lining", "Skydiving", "Hot air balloon"], "correctOptionIndex": 0 },
-    { "id": 144, "question": "Gyrocopter flights are popular in:", "options": ["Goa", "Kashmir", "Nagaland", "Punjab"], "correctOptionIndex": 0 },
-    { "id": 145, "question": "Which is the most dangerous air sport?", "options": ["BASE jumping", "Ballooning", "Zip lining", "Tandem paragliding"], "correctOptionIndex": 0 },
-    { "id": 146, "question": "Hang gliders consist mainly of:", "options": ["Metal frame + fabric", "Plastic wing", "Rubber wings", "Wooden frame"], "correctOptionIndex": 0 },
-    { "id": 147, "question": "Which state offers high-altitude zipline over valleys?", "options": ["Uttarakhand", "Punjab", "Haryana", "Bihar"], "correctOptionIndex": 0 },
-    { "id": 148, "question": "Which flight is operated by trained licensed pilots?", "options": ["Gyrocopter", "Solo paragliding", "Zip line", "Bungee jump"], "correctOptionIndex": 0 },
-    { "id": 149, "question": "Which activity needs a burner operator?", "options": ["Hot air balloon", "Zipline", "Wing walking", "Paragliding"], "correctOptionIndex": 0 },
-    { "id": 150, "question": "Which adventure allows aerial view of coastline?", "options": ["Helicopter ride", "BASE jumping", "Zipline only", "Hang gliding only"], "correctOptionIndex": 0 },
-  
-    { "id": 151, "question": "The highest paragliding takeoff site in India is at:", "options": ["Bir Billing", "Kamshet", "Goa", "Kerala"], "correctOptionIndex": 0 },
-    { "id": 152, "question": "Which of these is used for communication during helicopter rides?", "options": ["Headsets", "Radio tower", "Whistle", "Bell"], "correctOptionIndex": 0 },
-    { "id": 153, "question": "Primary risk factor for paragliding:", "options": ["Weather", "Pollution", "Clothing", "Water level"], "correctOptionIndex": 0 },
-    { "id": 154, "question": "Which is a silent flying aircraft?", "options": ["Sailplane/glider", "Gyrocopter", "Helicopter", "Hot air balloon"], "correctOptionIndex": 0 },
-    { "id": 155, "question": "Which activity uses 'takeoff roll'?", "options": ["Microlight aircraft", "Bungee", "Paragliding", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 156, "question": "Which is required for skydiving?", "options": ["Jumpsuit", "Flippers", "Skis", "Surf vest"], "correctOptionIndex": 0 },
-    { "id": 157, "question": "Tandem skydiving includes:", "options": ["Two people attached", "Solo flying", "Harness-free jumping", "Gliding"], "correctOptionIndex": 0 },
-    { "id": 158, "question": "Which destination is known for helicopter tours?", "options": ["Kedarnath", "Thane", "Ranchi", "Patna"], "correctOptionIndex": 0 },
-    { "id": 159, "question": "Windsocks are used to measure:", "options": ["Wind direction", "Rainfall", "Air temperature", "Pressure"], "correctOptionIndex": 0 },
-    { "id": 160, "question": "Which adventure is best for sunrise views?", "options": ["Hot air balloon", "Zip lining", "BASE jumping", "Wing walking"], "correctOptionIndex": 0 },
-  
-    { "id": 161, "question": "Which location offers desert ballooning?", "options": ["Jaipur", "Kochi", "Shillong", "Patna"], "correctOptionIndex": 0 },
-    { "id": 162, "question": "Best place for hang gliding:", "options": ["Kamshet", "Mumbai", "Jaipur", "Chennai"], "correctOptionIndex": 0 },
-    { "id": 163, "question": "Which sport uses a 'launch cliff'?", "options": ["Hang gliding", "Parasailing", "Bungee", "Ballooning"], "correctOptionIndex": 0 },
-    { "id": 164, "question": "Another name for parasailing:", "options": ["Parakiting", "Air sliding", "Para-surfing", "Sky gliding"], "correctOptionIndex": 0 },
-    { "id": 165, "question": "Which uses a ‘pulley braking system’?", "options": ["Zipline", "Balloon", "Helicopter", "Microlight"], "correctOptionIndex": 0 },
-    { "id": 166, "question": "BASE stands for:", "options": ["Building, Antenna, Span, Earth", "Balloon, Air, Sky, Elevation", "Basic Air Safety Exercise", "Bungee Air Sport Event"], "correctOptionIndex": 0 },
-    { "id": 167, "question": "Which Indian state offers paragliding over a lake?", "options": ["Uttarakhand (Bhimtal)", "Punjab", "West Bengal", "Haryana"], "correctOptionIndex": 0 },
-    { "id": 168, "question": "Primary fuel for hot air balloons:", "options": ["Propane", "Petrol", "Kerosene", "Diesel"], "correctOptionIndex": 0 },
-    { "id": 169, "question": "Which has the slowest flying speed?", "options": ["Hot air balloon", "Gyrocopter", "Microlight", "Paraglider"], "correctOptionIndex": 0 },
-    { "id": 170, "question": "Which sport requires an emergency parachute?", "options": ["Paragliding", "Zipline", "BASE jump", "Balloon"], "correctOptionIndex": 0 },
-  
-    { "id": 171, "question": "Which activity is most dependent on wind thermals?", "options": ["Paragliding", "BASE jump", "Zipline", "Helicopter ride"], "correctOptionIndex": 0 },
-    { "id": 172, "question": "Which is an engine-powered version of paragliding?", "options": ["Paramotoring", "BASE jumping", "Hang gliding", "Glider flying"], "correctOptionIndex": 0 },
-    { "id": 173, "question": "Which location is known for high-altitude helicopter darshan?", "options": ["Kedarnath", "Goa", "Pune", "Surat"], "correctOptionIndex": 0 },
-    { "id": 174, "question": "Sailplanes are also called:", "options": ["Gliders", "Rotors", "Canopies", "Drones"], "correctOptionIndex": 0 },
-    { "id": 175, "question": "Which activity is organized over forts in Neemrana?", "options": ["Ziplining", "Ballooning", "Hang gliding", "Skydiving"], "correctOptionIndex": 0 },
-    { "id": 176, "question": "The frame of a gyrocopter resembles:", "options": ["A mini-helicopter", "A bicycle", "A parachute", "A boat"], "correctOptionIndex": 0 },
-    { "id": 177, "question": "Height fear is a risk in:", "options": ["Bungee", "Zipline", "Skydiving", "All of these"], "correctOptionIndex": 3 },
-    { "id": 178, "question": "Reserve chute deployment is needed when:", "options": ["Main wing fails", "Wind is good", "Pilot lands safely", "Starting training"], "correctOptionIndex": 0 },
-    { "id": 179, "question": "Which activity does NOT require a pilot license?", "options": ["Paragliding", "Gyrocopter", "Helicopter", "Microlight"], "correctOptionIndex": 0 },
-    { "id": 180, "question": "Which is an extreme adventure among these?", "options": ["BASE jumping", "Paragliding", "Hot air balloon", "Zipline"], "correctOptionIndex": 0 },
-  
-    { "id": 181, "question": "Which sport uses a 'tow rope'?", "options": ["Parasailing", "Skydiving", "BASE jump", "Ballooning"], "correctOptionIndex": 0 },
-    { "id": 182, "question": "Which activity provides 360° cockpit view?", "options": ["Gyrocopter ride", "Paragliding", "Hang glider", "Zip line"], "correctOptionIndex": 0 },
-    { "id": 183, "question": "What helps in safe landing in skydiving?", "options": ["Parachute", "Rope", "Burning gas", "Engine"], "correctOptionIndex": 0 },
-    { "id": 184, "question": "Kamshet is close to:", "options": ["Pune", "Hyderabad", "Chennai", "Jaipur"], "correctOptionIndex": 0 },
-    { "id": 185, "question": "The fabric in a hang glider is:", "options": ["Dacron", "Cotton", "Leather", "Nylon only"], "correctOptionIndex": 0 },
-    { "id": 186, "question": "Which requires a smooth valley breeze?", "options": ["Paragliding", "Hot air ballooning", "BASE jump", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 187, "question": "Which activity is wind-independent?", "options": ["Paramotoring", "Paragliding", "Hang gliding", "Sailplane"], "correctOptionIndex": 0 },
-    { "id": 188, "question": "Which activity includes a 'pre-flight safety briefing'?", "options": ["Helicopter ride", "Zipline", "Paragliding", "All of these"], "correctOptionIndex": 3 },
-    { "id": 189, "question": "Which requires engine checkups regularly?", "options": ["Gyrocopter", "Paragliding", "Hot air balloon", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 190, "question": "Which sport uses winch launching or towing?", "options": ["Glider flying", "Bungee", "Zipline", "Paramotoring"], "correctOptionIndex": 0 },
-  
-    { "id": 191, "question": "Which adventure gives the longest airtime?", "options": ["Gliding", "Bungee", "Zipline", "BASE jumping"], "correctOptionIndex": 0 },
-    { "id": 192, "question": "Safety helmet is essential in:", "options": ["Paragliding", "Zipline", "Hang gliding", "All of these"], "correctOptionIndex": 3 },
-    { "id": 193, "question": "Which activity uses a nylon canopy?", "options": ["Skydiving", "Paragliding", "Parasailing", "All of these"], "correctOptionIndex": 3 },
-    { "id": 194, "question": "Which activity is most dependent on sunrise conditions?", "options": ["Ballooning", "Paramotoring", "BASE jumping", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 195, "question": "Which location is popular for heli-tourism?", "options": ["Sikkim", "Bihar", "Jharkhand", "Chhattisgarh"], "correctOptionIndex": 0 },
-    { "id": 196, "question": "Runway is required for:", "options": ["Microlight aircraft", "Paragliding", "Bungee", "Zipline"], "correctOptionIndex": 0 },
-    { "id": 197, "question": "Wing walking is performed on:", "options": ["Airplane wings", "Parachute", "Helicopter", "Glider"], "correctOptionIndex": 0 },
-    { "id": 198, "question": "Which adventure involves minimal noise?", "options": ["Gliding", "Gyrocopter", "Helicopter", "Paramotoring"], "correctOptionIndex": 0 },
-    { "id": 199, "question": "Which is simplest for beginners?", "options": ["Parasailing", "BASE jump", "Wing walking", "Skydiving"], "correctOptionIndex": 0 },
-    { "id": 200, "question": "Which activity provides bird’s-eye view of entire cities?", "options": ["Helicopter ride", "Zipline", "Parasailing", "Gliding"], "correctOptionIndex": 0 }
+    {
+      "id": 6,
+      "question": "What is the primary material used in conventional automobile body construction?",
+      "options": ["Copper", "Plastic", "Steel", "Aluminum"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is not a vehicle body type?",
+      "options": ["Sedan", "Limousine", "Transmission", "Hatchback"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "In which type of body construction is the frame and body built as one unit?",
+      "options": [
+        "Body-on-frame",
+        "Semi-monocoque",
+        "Monocoque",
+        "Ladder frame"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Which specification is not typically included when comparing vehicle bodies?",
+      "options": [
+        "Fuel tank capacity",
+        "Seating capacity",
+        "Boot space",
+        "Number of doors"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "What is a characteristic of a convertible car body?",
+      "options": [
+        "Has no engine compartment",
+        "Fixed metal roof",
+        "Retractable or removable roof",
+        "Only two wheels"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 11,
+      "question": "Which of the following is a feature of a station wagon vehicle?",
+      "options": [
+        "Small luggage space",
+        "Two seats only",
+        "Extended rear cargo area",
+        "No rear window"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "What is the typical body type of a heavy goods vehicle (HGV)?",
+      "options": ["Coupe", "SUV", "Truck body", "Sedan"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "What does SUV stand for?",
+      "options": [
+        "Super Utility Van",
+        "Standard Utility Vehicle",
+        "Sports Utility Vehicle",
+        "Special Use Vehicle"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "In body construction, what is the primary purpose of crumple zones?",
+      "options": [
+        "Reduce fuel consumption",
+        "Provide comfort",
+        "Absorb impact energy in collisions",
+        "Add aesthetic design"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following vehicles is typically built with a body-on-frame construction?",
+      "options": ["Hatchback", "SUV", "Coupe", "Convertible"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 16,
+      "question": "Which of the following materials is most commonly used in automobile body construction?",
+      "options": ["Copper", "Mild Steel", "Brass", "Zinc"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Aluminium is used in automobile bodies mainly because of its:",
+      "options": [
+        "High cost",
+        "High weight",
+        "Corrosion resistance and lightweight",
+        "High strength only"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Which material is primarily used in high-performance and luxury cars due to its strength-to-weight ratio?",
+      "options": ["Mild steel", "Cast iron", "Carbon fiber", "PVC"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of galvanization in automotive body panels?",
+      "options": [
+        "Improve paint quality",
+        "Reduce body weight",
+        "Prevent rusting",
+        "Increase thickness"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "The first step in vehicle body fabrication is usually:",
+      "options": [
+        "Painting",
+        "Welding",
+        "Cutting and shaping sheet metal",
+        "Sanding"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 21,
+      "question": "Which type of welding is most commonly used in automobile body repair?",
+      "options": ["Arc welding", "Gas welding", "TIG welding", "MIG welding"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "What is a common tool used for reshaping dented metal during accident repair?",
+      "options": ["Hacksaw", "Dent puller", "Lathe", "Drill machine"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "In accidental repairs, which process is used to smoothen the damaged surface before painting?",
+      "options": ["Drilling", "Sanding", "Welding", "Hammering"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "The function of primer in body painting is to:",
+      "options": [
+        "Increase thickness",
+        "Provide color",
+        "Improve paint adhesion and prevent rust",
+        "Make it waterproof"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 25,
+      "question": "Which body accessory helps reduce wind resistance and improve aerodynamics?",
+      "options": ["Bumper", "Spoiler", "Mudguard", "Sunroof"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 26,
+      "question": "Which of the following is not considered a body accessory?",
+      "options": ["Fog lights", "Roof rails", "Chassis", "Side mirrors"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 27,
+      "question": "What is the main function of a car’s bumper?",
+      "options": [
+        "Improve aesthetics",
+        "Absorb impact during minor collisions",
+        "Support headlights",
+        "Help with fuel efficiency"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 28,
+      "question": "The purpose of mud flaps on a vehicle is to:",
+      "options": [
+        "Enhance speed",
+        "Reduce noise",
+        "Prevent mud and debris from hitting the body",
+        "Reduce emissions"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 29,
+      "question": "Side view mirrors are mainly used for:",
+      "options": [
+        "Decoration",
+        "Increasing speed",
+        "Rear and side visibility for safe lane changing",
+        "Engine cooling"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 30,
+      "question": "What is the function of roof rails on a vehicle?",
+      "options": [
+        "Decoration only",
+        "Improve aerodynamics",
+        "Carry luggage or cargo on the roof",
+        "Support the windshield"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 31,
+      "question": "What is the main benefit of streamlining a vehicle body?",
+      "options": [
+        "Better lighting",
+        "Lower manufacturing cost",
+        "Reduction in air resistance",
+        "More passenger space"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 32,
+      "question": "Air resistance acting on a vehicle is also known as:",
+      "options": [
+        "Gradient resistance",
+        "Rolling resistance",
+        "Aerodynamic drag",
+        "Inertial resistance"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 33,
+      "question": "Which shape offers the least air resistance for vehicles at high speed?",
+      "options": [
+        "Rectangular",
+        "Cubical",
+        "Streamlined (teardrop-shaped)",
+        "Square"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 34,
+      "question": "What does rolling resistance depend on most?",
+      "options": [
+        "Wind speed",
+        "Tyre material and road surface",
+        "Engine size",
+        "Number of passengers"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 35,
+      "question": "Gradient resistance is encountered when:",
+      "options": [
+        "Vehicle is in motion on a flat road",
+        "Vehicle moves downhill only",
+        "Vehicle climbs an incline",
+        "Vehicle accelerates on a straight road"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 36,
+      "question": "What is the formula for tractive resistance in basic terms?",
+      "options": [
+        "Rolling + Gradient + Air resistance",
+        "Rolling – Air resistance",
+        "Gradient × Rolling",
+        "Engine power ÷ Weight"
+      ],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 37,
+      "question": "The force available between the tyre and the road surface to move the vehicle forward is called:",
+      "options": ["Drag force", "Gradient force", "Traction", "Resistance"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 38,
+      "question": "Tractive effort is defined as:",
+      "options": [
+        "Resistance caused by gravity",
+        "Force required to overcome all resistances and move the vehicle",
+        "Power output of the engine",
+        "Braking force"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 39,
+      "question": "Which of the following is not a type of resistance faced by a vehicle?",
+      "options": [
+        "Air resistance",
+        "Rolling resistance",
+        "Lateral resistance",
+        "Gradient resistance"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 40,
+      "question": "Which of the following increases when a vehicle travels at high speed?",
+      "options": [
+        "Rolling resistance",
+        "Air resistance",
+        "Gradient resistance",
+        "Tractive effort"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 41,
+      "question": "Pitching is the movement of the vehicle about its:",
+      "options": [
+        "Longitudinal axis",
+        "Lateral axis",
+        "Vertical axis",
+        "Center of gravity"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 42,
+      "question": "Rolling refers to the movement about the:",
+      "options": [
+        "Vertical axis",
+        "Lateral axis",
+        "Longitudinal axis",
+        "Horizontal plane"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 43,
+      "question": "Yaw is the movement of the vehicle around the:",
+      "options": [
+        "Vertical axis",
+        "Lateral axis",
+        "Horizontal axis",
+        "Front axle"
+      ],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 44,
+      "question": "Bouncing occurs due to:",
+      "options": [
+        "Poor lighting",
+        "Steering misalignment",
+        "Poor suspension or uneven roads",
+        "Overinflated tyres"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 45,
+      "question": "Sway refers to:",
+      "options": [
+        "Up and down motion",
+        "Side-to-side motion of the whole body",
+        "Rotating motion",
+        "Forward acceleration"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 46,
+      "question": "The primary purpose of applying anticorrosive treatment to a vehicle body is to:",
+      "options": [
+        "Improve fuel efficiency",
+        "Enhance engine performance",
+        "Prevent rust and corrosion",
+        "Improve aerodynamics"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 47,
+      "question": "Which of the following is the first step in the vehicle painting process?",
+      "options": [
+        "Top coat application",
+        "Priming",
+        "Surface cleaning and sanding",
+        "Clear coat application"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 48,
+      "question": "Which type of coating is applied immediately after surface cleaning to prevent corrosion?",
+      "options": ["Clear coat", "Primer", "Base coat", "Top coat"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 49,
+      "question": "Which layer of paint provides the actual color and aesthetic appearance of the vehicle?",
+      "options": ["Base coat", "Clear coat", "Primer", "Epoxy coating"],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 50,
+      "question": "The clear coat in painting is used to:",
+      "options": [
+        "Add thickness to paint",
+        "Increase friction",
+        "Protect the base coat and give gloss",
+        "Prevent fire hazards"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "What is the primary chemical used for rustproofing underbody parts?",
+      "options": [
+        "Paint thinner",
+        "Epoxy resin",
+        "Zinc phosphate",
+        "Engine oil"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is not a method of anticorrosive treatment?",
+      "options": ["Galvanizing", "Phosphating", "Painting", "Welding"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "What is the name of the process in which a car body is dipped into a bath for anti-corrosion coating?",
+      "options": [
+        "Electroplating",
+        "Dip coating",
+        "Electro-deposition (ED) coating",
+        "Spot welding"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "During repainting, what is usually done before applying a new coat of paint?",
+      "options": [
+        "Wash with plain water",
+        "Wet sanding and removing old paint",
+        "Engine tuning",
+        "Apply base coat directly"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Which tool is commonly used to apply paint in auto body shops?",
+      "options": ["Paintbrush", "Sanding block", "Spray gun", "Welding torch"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "What is the main purpose of polishing after painting or repainting?",
+      "options": [
+        "Remove the paint",
+        "Soften the metal",
+        "Improve surface finish and shine",
+        "Reduce weight"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Which type of paint is most commonly used in modern automobile painting?",
+      "options": [
+        "Acrylic enamel",
+        "Water-based emulsion",
+        "Latex paint",
+        "Oil-based paint"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "What can cause paint blistering after painting?",
+      "options": [
+        "Low humidity",
+        "Proper drying",
+        "Moisture or contaminants under paint",
+        "Polishing the surface"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "In multi-layer painting, the layer applied to smooth out imperfections before base coat is called:",
+      "options": ["Primer", "Putty/filler", "Clear coat", "Epoxy layer"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "Which part of the vehicle is most prone to corrosion?",
+      "options": ["Roof", "Bonnet", "Underbody and wheel arches", "Windows"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 61,
+      "question": "What is a major drawback of a carbureted spark ignition (SI) engine?",
+      "options": [
+        "Precise air-fuel mixture control",
+        "High fuel efficiency",
+        "Poor cold starting and emissions",
+        "High engine power"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 62,
+      "question": "In carbureted engines, the fuel is mixed with air:",
+      "options": [
+        "Near the intake valve",
+        "In the combustion chamber",
+        "Inside the exhaust manifold",
+        "In the carburetor itself"
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 63,
+      "question": "Which of the following is an advantage of MPFI over carbureted systems?",
+      "options": [
+        "Lower cost",
+        "Easier manufacturing",
+        "Better fuel atomization and control",
+        "No need for ECU"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "In Throttle Body Injection (TBI), the fuel is injected:",
+      "options": [
+        "Into each cylinder",
+        "Into the exhaust port",
+        "Just above the throttle valve",
+        "Inside the fuel tank"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "In Port Fuel Injection (PFI), fuel is injected:",
+      "options": [
+        "Into the intake manifold before the throttle",
+        "Into the combustion chamber",
+        "At the intake port near the intake valve",
+        "After the exhaust valve"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 66,
+      "question": "Which system offers more precise fuel delivery and performance?",
+      "options": ["TBI", "PFI", "Carburetor", "Mechanical injection"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "MPFI stands for:",
+      "options": [
+        "Multi-Point Fuel Injection",
+        "Multi-Port Fuel Ignition",
+        "Main Power Fuel Injector",
+        "Multiple Pressure Fuel Injection"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 68,
+      "question": "Which of the following is not a sensor used in an MPFI engine?",
+      "options": [
+        "Throttle Position Sensor",
+        "Oxygen Sensor",
+        "Knock Sensor",
+        "Brake Pedal Sensor"
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "The function of the Oxygen (O₂) Sensor in an MPFI system is to:",
+      "options": [
+        "Detect engine temperature",
+        "Detect throttle angle",
+        "Monitor exhaust gas for air-fuel ratio",
+        "Increase fuel pressure"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 70,
+      "question": "The Mass Air Flow (MAF) sensor measures:",
+      "options": [
+        "Engine speed",
+        "Throttle position",
+        "The amount of air entering the engine",
+        "Fuel temperature"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 71,
+      "question": "Which sensor informs the ECU about the engine temperature?",
+      "options": [
+        "Oxygen sensor",
+        "MAP sensor",
+        "Coolant Temperature Sensor",
+        "Camshaft position sensor"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "Which of the following is an actuator in an MPFI system?",
+      "options": [
+        "MAP Sensor",
+        "Fuel Injector",
+        "Oxygen Sensor",
+        "Throttle Position Sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 73,
+      "question": "The ECU in an MPFI engine controls:",
+      "options": [
+        "Only ignition timing",
+        "Only air supply",
+        "Fuel injection timing and duration",
+        "Exhaust valve operation"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "A common type of sensor used to detect engine speed is the:",
+      "options": [
+        "TPS",
+        "Crankshaft Position Sensor",
+        "IAT Sensor",
+        "Coolant Sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "CRDI stands for:",
+      "options": [
+        "Controlled Rail Direct Ignition",
+        "Common Rail Direct Injection",
+        "Constant Rate Direct Injection",
+        "Combined Rail Diesel Injection"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 76,
+      "question": "What is the primary feature of a CRDI system?",
+      "options": [
+        "Uses a carburetor",
+        "Fuel injected at constant low pressure",
+        "Fuel supplied by high-pressure common rail",
+        "Uses spark plugs"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 77,
+      "question": "In a CRDI engine, fuel is injected:",
+      "options": [
+        "Into the intake manifold",
+        "After the exhaust valve",
+        "Directly into the combustion chamber",
+        "Into the fuel tank"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Which of the following is not a component of a CRDI system?",
+      "options": [
+        "Common rail",
+        "High-pressure fuel pump",
+        "Spark plug",
+        "Electronic Control Unit"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "What controls the fuel injection timing and pressure in a CRDI system?",
+      "options": ["Fuel filter", "Ignition coil", "ECU", "Glow plug"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 80,
+      "question": "The common rail in a CRDI system acts as a:",
+      "options": [
+        "Fuel return line",
+        "Fuel storage and distribution unit",
+        "Pressure regulator",
+        "Fuel injector"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 81,
+      "question": "Which type of EV charging is fastest?",
+      "options": [
+        "Level 1 AC charging",
+        "Level 2 AC charging",
+        "DC fast charging",
+        "USB charging"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 82,
+      "question": "What is regenerative braking in EVs?",
+      "options": [
+        "Using oil brakes",
+        "Converting braking energy into electrical energy",
+        "Hydraulic braking",
+        "Reverse gear braking"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 83,
+      "question": "Which battery parameter defines how much energy a battery can store?",
+      "options": ["Voltage", "Capacity", "Current", "Temperature"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 84,
+      "question": "In EVs, the inverter performs the function of:",
+      "options": [
+        "Charging the battery",
+        "Converting AC to DC",
+        "Converting DC to AC for the motor",
+        "Cooling the battery"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 85,
+      "question": "The main function of the electric motor in an EV is to:",
+      "options": [
+        "Store energy",
+        "Generate fuel",
+        "Convert electrical energy into mechanical energy",
+        "Control temperature"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Which component improves fuel economy and reduces emissions in MPFI engines?",
+      "options": [
+        "Air filter",
+        "Ignition coil",
+        "Electronic Control Unit (ECU)",
+        "Flywheel"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "Which of the following components improves fuel economy and reduces emissions in MPFI engines?",
+      "options": [
+        "Air filter",
+        "Ignition coil",
+        "Electronic Control Unit (ECU)",
+        "Flywheel"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "In a CRDI engine, the fuel injectors are operated by:",
+      "options": [
+        "Mechanical camshaft",
+        "ECU-controlled solenoids or piezoelectric actuators",
+        "Vacuum pressure",
+        "Manual fuel pump"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "A typical CRDI block diagram includes all except:",
+      "options": [
+        "Fuel tank",
+        "High-pressure pump",
+        "Common rail",
+        "Catalytic converter"
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 90,
+      "question": "The main advantage of CRDI over conventional diesel injection systems is:",
+      "options": [
+        "Lower engine weight",
+        "Reduced compression ratio",
+        "Precise fuel control and multiple injections per cycle",
+        "Use of petrol instead of diesel"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 91,
+      "question": "CRDI technology contributes to:",
+      "options": [
+        "Higher emissions",
+        "Increased noise",
+        "Better fuel efficiency and lower emissions",
+        "Lower injection pressure"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 92,
+      "question": "In CRDI, pilot injection is used to:",
+      "options": [
+        "Cool the injector",
+        "Reduce noise and improve combustion",
+        "Increase fuel flow",
+        "Improve exhaust gas temperature"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 93,
+      "question": "Which type of pump is used in CRDI systems to generate high fuel pressure?",
+      "options": [
+        "Diaphragm pump",
+        "Vane pump",
+        "High-pressure fuel pump (plunger type)",
+        "Water pump"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 94,
+      "question": "The pressure in a CRDI common rail can go as high as:",
+      "options": ["10–20 bar", "100–200 bar", "1000–2000 bar", "5000–6000 bar"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "In CRDI engines, fuel injection is typically done at:",
+      "options": [
+        "Constant timing for all conditions",
+        "Fixed volume of fuel",
+        "Variable pressure and timing based on load and speed",
+        "After the exhaust stroke"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 96,
+      "question": "Which of the following is an advantage of CRDI engines?",
+      "options": [
+        "Higher NOx emissions",
+        "Lower fuel efficiency",
+        "Smoother engine operation and reduced knocking",
+        "More mechanical components"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 97,
+      "question": "What is the main advantage of a Variable Geometry Turbocharger (VGT)?",
+      "options": [
+        "Reduces engine displacement",
+        "Better performance only at low speeds",
+        "Maintains optimal boost pressure across wide RPM range",
+        "Increases fuel consumption"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "In a VGT, the vanes change their position to:",
+      "options": [
+        "Increase coolant flow",
+        "Adjust air-fuel ratio",
+        "Regulate exhaust gas flow to the turbine",
+        "Control ignition timing"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "Which is a benefit of using VGT over conventional turbocharger?",
+      "options": [
+        "Reduced engine torque",
+        "Increased turbo lag",
+        "Lower emissions and better throttle response",
+        "Simpler construction"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 100,
+      "question": "Variable Valve Timing (VVT) is used to:",
+      "options": [
+        "Control fuel pressure",
+        "Increase engine size",
+        "Optimize valve timing based on speed and load",
+        "Reduce spark plug wear"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 101,
+      "question": "VVT improves all the following except:",
+      "options": [
+        "Engine power",
+        "Emission control",
+        "Valve damage",
+        "Fuel efficiency"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 102,
+      "question": "VVT mainly adjusts the:",
+      "options": [
+        "Injector pressure",
+        "Valve opening and closing timing",
+        "Piston stroke length",
+        "Oil temperature"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "Gasoline Direct Injection (GDI) engines inject fuel:",
+      "options": [
+        "Into the carburetor",
+        "Into the intake manifold",
+        "Directly into the combustion chamber",
+        "Into the exhaust manifold"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is an advantage of GDI over conventional injection?",
+      "options": [
+        "Lower pressure requirement",
+        "Richer mixture",
+        "Better fuel economy and performance",
+        "Higher emissions"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 105,
+      "question": "Stratified-charge combustion in GDI engines is used to:",
+      "options": [
+        "Cool the engine",
+        "Burn rich mixture at high RPM",
+        "Achieve lean burn at light load",
+        "Reduce ignition temperature"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 106,
+      "question": "Which emission control system reduces NOx emissions?",
+      "options": ["PCV", "EVAP", "EGR", "Catalytic converter"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 107,
+      "question": "EGR stands for:",
+      "options": [
+        "Engine Gas Reduction",
+        "Exhaust Gas Recirculation",
+        "Electronic Gas Re-injection",
+        "Emission Gas Regulator"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 108,
+      "question": "The EGR system reduces NOx by:",
+      "options": [
+        "Increasing combustion temperature",
+        "Lowering combustion temperature",
+        "Increasing air intake",
+        "Reducing fuel injection"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 109,
+      "question": "PCV system helps to reduce:",
+      "options": ["CO₂", "NOx", "Unburned hydrocarbons", "Lead"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 110,
+      "question": "EVAP system is used to:",
+      "options": [
+        "Prevent oil leaks",
+        "Trap fuel vapors",
+        "Cool the radiator",
+        "Increase mileage"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 111,
+      "question": "Primary source of propulsion in an Electric Vehicle (EV) is:",
+      "options": [
+        "Internal combustion engine",
+        "Steam engine",
+        "Electric motor powered by battery",
+        "Gas turbine"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 112,
+      "question": "Which battery type is most commonly used in modern EVs?",
+      "options": ["Lead-acid", "NiMH", "Lithium-ion", "Zinc-air"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 113,
+      "question": "Main function of Battery Management System (BMS) is to:",
+      "options": [
+        "Increase motor speed",
+        "Regulate airflow",
+        "Monitor and manage battery health",
+        "Control steering"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 114,
+      "question": "Which electric motor is commonly used in EVs?",
+      "options": [
+        "Brushed DC",
+        "Synchronous reluctance",
+        "Brushless DC (BLDC)",
+        "Shaded pole"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 115,
+      "question": "Which EV charging method is fastest?",
+      "options": [
+        "Level 1 AC",
+        "Level 2 AC",
+        "DC fast charging",
+        "USB charging"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 116,
+      "question": "In EVs, inverter converts:",
+      "options": ["AC to DC", "DC to AC", "AC to AC", "DC to DC"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 117,
+      "question": "Regenerative braking converts:",
+      "options": [
+        "Heat to sound",
+        "Mechanical energy to electrical energy",
+        "Electrical energy to heat",
+        "Fuel to energy"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 118,
+      "question": "Which EV component stores energy?",
+      "options": ["Motor", "Inverter", "Battery pack", "Controller"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 119,
+      "question": "Which parameter defines EV battery capacity?",
+      "options": ["Voltage", "Current", "Ah or kWh", "Temperature"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 120,
+      "question": "Main advantage of EVs is:",
+      "options": [
+        "High emissions",
+        "Low efficiency",
+        "Zero tailpipe emissions",
+        "High maintenance"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 121,
+      "question": "Which refrigerant replaced R-134a in most modern car HVAC systems due to environmental concerns?",
+      "options": ["R-12", "R-22", "R-1234yf", "R-410A"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "The main environmental problem caused by old refrigerants like R-12 was:",
+      "options": [
+        "Global warming only",
+        "Ozone layer depletion",
+        "Acid rain",
+        "Water pollution"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 123,
+      "question": "Which gas from car AC systems contributes to global warming?",
+      "options": ["Oxygen", "Carbon dioxide", "Refrigerant gas", "Nitrogen"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 124,
+      "question": "The Global Warming Potential (GWP) of R-1234yf is:",
+      "options": ["Very high", "Moderate", "Very low", "Zero"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 125,
+      "question": "Which safety device protects the AC system from over-pressure?",
+      "options": [
+        "Evaporator",
+        "Condenser",
+        "Pressure relief valve",
+        "Receiver dryer"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 126,
+      "question": "Which of the following is a personal safety precaution for AC servicing?",
+      "options": [
+        "Wearing loose clothes",
+        "Avoiding goggles",
+        "Wearing gloves and safety glasses",
+        "Disconnecting battery is unnecessary"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 127,
+      "question": "Refrigerant leaks are dangerous mainly because they:",
+      "options": [
+        "Smell bad",
+        "Are expensive",
+        "Reduce oxygen level in closed areas",
+        "Make engine noisy"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 128,
+      "question": "Which tool is used to detect refrigerant leakage?",
+      "options": ["Thermostat", "Manifold gauge", "Leak detector", "Ammeter"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 129,
+      "question": "Why should refrigerant never be vented into the atmosphere?",
+      "options": [
+        "It damages compressor",
+        "It increases cooling",
+        "It harms the environment",
+        "It reduces airflow"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 130,
+      "question": "Which component removes moisture from the refrigerant?",
+      "options": [
+        "Condenser",
+        "Receiver-drier",
+        "Compressor",
+        "Expansion valve"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 131,
+      "question": "Refrigeration is the process of:",
+      "options": [
+        "Heating a space",
+        "Cooling a space below atmospheric temperature",
+        "Removing humidity",
+        "Supplying hot air"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 132,
+      "question": "The working fluid in refrigeration is called:",
+      "options": ["Coolant", "Refrigerant", "Lubricant", "Water"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 133,
+      "question": "In an air conditioning system, the main function of the evaporator is to:",
+      "options": [
+        "Compress gas",
+        "Absorb heat",
+        "Reject heat",
+        "Pump refrigerant"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 134,
+      "question": "Which component increases the pressure of the refrigerant?",
+      "options": ["Condenser", "Compressor", "Evaporator", "Expansion valve"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 135,
+      "question": "Air conditioning controls all except:",
+      "options": [
+        "Temperature",
+        "Humidity",
+        "Air cleanliness",
+        "Fuel consumption"
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 136,
+      "question": "The SI unit of refrigeration capacity is:",
+      "options": ["Watt", "Joule", "Watt or kW", "Pascal"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 137,
+      "question": "The function of a condenser in an AC system is to:",
+      "options": [
+        "Absorb heat",
+        "Reject heat to atmosphere",
+        "Increase pressure",
+        "Reduce temperature only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 138,
+      "question": "The device used to measure temperature is:",
+      "options": ["Hygrometer", "Barometer", "Thermometer", "Anemometer"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 139,
+      "question": "Relative humidity is defined as:",
+      "options": [
+        "Amount of dry air",
+        "Amount of moisture compared to maximum moisture air can hold",
+        "Air pressure difference",
+        "Cooling capacity"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 140,
+      "question": "Air-conditioning is different from refrigeration because it also controls:",
+      "options": [
+        "Pressure",
+        "Only temperature",
+        "Humidity and air purity",
+        "Speed of air"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 141,
+      "question": "The vapour compression cycle has how many main components?",
+      "options": ["2", "3", "4", "5"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 142,
+      "question": "The function of the expansion valve is to:",
+      "options": [
+        "Increase pressure",
+        "Decrease pressure",
+        "Absorb heat",
+        "Reject heat"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 143,
+      "question": "In which component does refrigerant absorb heat?",
+      "options": ["Condenser", "Compressor", "Evaporator", "Expansion valve"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 144,
+      "question": "Which process occurs in the compressor?",
+      "options": [
+        "Heat absorption",
+        "Condensation",
+        "Isentropic compression",
+        "Throttling"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 145,
+      "question": "Heat rejection occurs in the:",
+      "options": ["Evaporator", "Compressor", "Condenser", "Expansion device"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 146,
+      "question": "In a vapour compression cycle, the refrigerant leaves the evaporator as:",
+      "options": [
+        "Liquid",
+        "Superheated vapour",
+        "Subcooled liquid",
+        "Wet vapour"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 147,
+      "question": "The expansion process occurs at:",
+      "options": [
+        "Constant pressure",
+        "Constant temperature",
+        "Constant enthalpy",
+        "Constant volume"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 148,
+      "question": "The refrigerant enters condenser as:",
+      "options": [
+        "Low pressure liquid",
+        "High pressure vapour",
+        "Low pressure vapour",
+        "High pressure liquid"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 149,
+      "question": "Which cycle is used in car AC systems?",
+      "options": [
+        "Steam power cycle",
+        "Vapour absorption cycle",
+        "Vapour compression cycle",
+        "Rankine cycle"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 150,
+      "question": "COP of a refrigeration system is defined as:",
+      "options": [
+        "Work done / Heat absorbed",
+        "Heat rejected / Work input",
+        "Heat absorbed / Work input",
+        "Work input / Heat rejected"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 151,
+      "question": "The main function of the compressor in a car AC system is to:",
+      "options": [
+        "Store refrigerant",
+        "Increase pressure of refrigerant",
+        "Cool the refrigerant",
+        "Absorb heat from cabin"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 152,
+      "question": "Which component converts high-pressure refrigerant gas into liquid?",
+      "options": ["Evaporator", "Compressor", "Condenser", "Receiver drier"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 153,
+      "question": "The expansion valve in the AC system:",
+      "options": [
+        "Increases refrigerant temperature",
+        "Reduces refrigerant pressure",
+        "Removes moisture",
+        "Compresses gas"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 154,
+      "question": "The evaporator is usually located:",
+      "options": [
+        "In front of the radiator",
+        "Inside the dashboard",
+        "Near the engine block",
+        "Under the car"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "Which component removes moisture from refrigerant?",
+      "options": [
+        "Condenser",
+        "Receiver-drier",
+        "Expansion valve",
+        "Compressor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 156,
+      "question": "Refrigerant in a car AC absorbs heat inside the:",
+      "options": ["Condenser", "Compressor", "Evaporator", "Receiver drier"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 157,
+      "question": "Which of the following is NOT a part of a car AC system?",
+      "options": ["Condenser", "Evaporator", "Fuel injector", "Compressor"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 158,
+      "question": "The blower motor is used to:",
+      "options": [
+        "Cool engine",
+        "Circulate air in the cabin",
+        "Reduce fuel consumption",
+        "Lubricate compressor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "The cabin air filter is located:",
+      "options": [
+        "Before the compressor",
+        "In air intake duct",
+        "Inside the condenser",
+        "In refrigerant pipe"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 160,
+      "question": "The mode door in HVAC system controls:",
+      "options": [
+        "Refrigerant flow",
+        "Engine speed",
+        "Direction of airflow",
+        "Pressure of refrigerant"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 161,
+      "question": "In heating mode, warm air is produced using:",
+      "options": [
+        "Hot exhaust gases",
+        "Hot engine coolant",
+        "Hot compressor oil",
+        "Hot radiator fan air"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Recirculation flap helps to:",
+      "options": [
+        "Increase fuel efficiency",
+        "Prevent refrigerant leakage",
+        "Recirculate cabin air",
+        "Increase compressor speed"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 163,
+      "question": "In defrost mode, air is mainly directed towards:",
+      "options": ["Rear seats", "Side doors", "Windshield", "Floor"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 164,
+      "question": "The heater core works as:",
+      "options": [
+        "A compressor",
+        "A small radiator",
+        "An expansion valve",
+        "A condenser"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 165,
+      "question": "Hot engine coolant flows to heater core from:",
+      "options": [
+        "Fuel tank",
+        "Exhaust pipe",
+        "Engine block / cylinder head",
+        "Brake lines"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 166,
+      "question": "The main source of heat for automobile heating system is:",
+      "options": [
+        "Battery",
+        "Engine waste heat",
+        "Outside air",
+        "Exhaust muffler"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 167,
+      "question": "The function of heater control valve is to:",
+      "options": [
+        "Control refrigerant pressure",
+        "Control coolant flow to heater core",
+        "Control blower speed",
+        "Control temperature sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 168,
+      "question": "The purpose of ventilation in a car is to:",
+      "options": [
+        "Heat the engine",
+        "Supply fresh air",
+        "Increase tyre pressure",
+        "Improve acceleration"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 169,
+      "question": "Which component removes dust before air enters the cabin?",
+      "options": [
+        "Expansion valve",
+        "Condenser",
+        "Cabin air filter",
+        "Radiator"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 170,
+      "question": "The blower motor in ventilation system is used to:",
+      "options": [
+        "Push refrigerant into condenser",
+        "Draw in and circulate air",
+        "Compress air",
+        "Cool engine oil"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 171,
+      "question": "The comfortable temperature range for most people is:",
+      "options": ["10–15°C", "18–27°C", "30–40°C", "0–10°C"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 172,
+      "question": "The ideal relative humidity for human comfort lies between:",
+      "options": ["10–20%", "20–30%", "40–60%", "80–100%"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 173,
+      "question": "High air velocity in a room causes:",
+      "options": [
+        "Better comfort",
+        "Skin dryness",
+        "Feeling of cold discomfort",
+        "No effect"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 174,
+      "question": "Human comfort mainly depends on:",
+      "options": [
+        "Temperature only",
+        "Humidity only",
+        "Air motion only",
+        "Temperature, humidity and air motion"
+      ],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 175,
+      "question": "Which of the following reduces body heat through evaporation?",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Evaporation of sweat",
+        "Convection"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 176,
+      "question": "The ideal air velocity for human comfort in air conditioning is:",
+      "options": ["0.1 – 0.25 m/s", "1 – 2 m/s", "4 – 5 m/s", "10 m/s"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 177,
+      "question": "High relative humidity causes:",
+      "options": [
+        "Faster sweat evaporation",
+        "Slower sweat evaporation",
+        "Body cooling increases",
+        "No effect on comfort"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 178,
+      "question": "Human body loses maximum heat through:",
+      "options": ["Evaporation", "Radiation", "Conduction", "Respiration"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 179,
+      "question": "The comfort zone is shown on:",
+      "options": [
+        "T–S diagram",
+        "P–V diagram",
+        "Psychrometric chart",
+        "Mollier diagram"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 180,
+      "question": "Which refrigerant is most commonly used in modern car AC systems?",
+      "options": ["R-12", "R-134a", "R-22", "R-410A"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 181,
+      "question": "Which refrigerant is widely used now due to its low global warming potential (GWP)?",
+      "options": ["R-12", "R-1234yf", "R-404A", "R-717"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 182,
+      "question": "The main reason R-12 was banned is because it:",
+      "options": [
+        "Is expensive",
+        "Causes ozone depletion",
+        "Has low efficiency",
+        "Causes corrosion"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 183,
+      "question": "Which property is important for a good refrigerant?",
+      "options": [
+        "High boiling point",
+        "High toxicity",
+        "High latent heat of vaporization",
+        "High viscosity"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 184,
+      "question": "Which of the following refrigerants is ozone-friendly?",
+      "options": ["R-12", "R-22", "R-1234yf", "R-11"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 185,
+      "question": "Which refrigerant has zero Ozone Depletion Potential (ODP)?",
+      "options": ["R-12", "R-134a", "R-1234yf", "Both B and C"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 186,
+      "question": "The chemical name of R-134a is:",
+      "options": [
+        "Dichlorodifluoromethane",
+        "Tetrafluoroethane",
+        "Chlorodifluoromethane",
+        "Ammonia"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 187,
+      "question": "Which refrigerant has very low Global Warming Potential compared to R-134a?",
+      "options": ["R-22", "R-12", "R-1234yf", "R-407C"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 188,
+      "question": "The refrigerant used should be:",
+      "options": [
+        "Highly flammable",
+        "Highly toxic",
+        "Chemically stable",
+        "Highly corrosive"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 189,
+      "question": "Which refrigerant is non-toxic and non-flammable?",
+      "options": ["R-717 (Ammonia)", "R-12", "R-134a", "R-600a"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 190,
+      "question": "Before charging refrigerant, the system should be:",
+      "options": ["Heated", "Pressurized", "Evacuated", "Oiled"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 191,
+      "question": "Why is vacuum created before charging refrigerant?",
+      "options": [
+        "To increase pressure",
+        "To remove air and moisture",
+        "To cool the pipes",
+        "To test compressor speed"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 192,
+      "question": "Which instrument is used to measure high and low side pressure during charging?",
+      "options": [
+        "Thermometer",
+        "Manifold gauge set",
+        "Hydrometer",
+        "Voltmeter"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 193,
+      "question": "Undercharging the AC system results in:",
+      "options": [
+        "Excess cooling",
+        "Compressor damage",
+        "Reduced cooling effect",
+        "Frost on condenser"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 194,
+      "question": "Overcharging the refrigerant causes:",
+      "options": [
+        "Low pressure",
+        "No cooling",
+        "Higher system pressure",
+        "Freezing of evaporator"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 195,
+      "question": "Refrigerant should be charged through the low-pressure side in which state?",
+      "options": ["Solid", "Liquid", "Vapor", "Plasma"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 196,
+      "question": "Which component indicates correct refrigerant level in older systems?",
+      "options": ["Sight glass", "Thermostat", "Clutch coil", "Fan motor"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 197,
+      "question": "Which safety precaution is necessary during refrigerant charging?",
+      "options": [
+        "Keep system near fire",
+        "Wear safety gloves and goggles",
+        "Touch refrigerant directly",
+        "Work in closed room"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 198,
+      "question": "The standard method of charging refrigerant in car AC is based on:",
+      "options": [
+        "Time method",
+        "Pressure method",
+        "Weight method",
+        "Temperature method"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 199,
+      "question": "After charging refrigerant, which step should be performed?",
+      "options": [
+        "Disconnect compressor belt",
+        "Check for leaks",
+        "Switch off blower",
+        "Open expansion valve"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 200,
+      "question": "The main function of the temperature control system is to:",
+      "options": [
+        "Control vehicle speed",
+        "Maintain desired cabin temperature",
+        "Control fuel injection",
+        "Reduce engine load"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 201,
+      "question": "The temperature sensor in a car HVAC system senses:",
+      "options": [
+        "Engine temperature",
+        "Outside temperature only",
+        "Cabin air temperature",
+        "Tyre temperature"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 202,
+      "question": "In automatic climate control, temperature is controlled by:",
+      "options": [
+        "Driver manually",
+        "ECU and sensors",
+        "Expansion valve only",
+        "Radiator"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 203,
+      "question": "Which component controls mixed hot and cold air?",
+      "options": ["Compressor", "Condenser", "Blend door", "Evaporator"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 204,
+      "question": "The thermostat in an HVAC system is used to:",
+      "options": [
+        "Control refrigerant pressure",
+        "Sense cabin temperature",
+        "Control compressor ON/OFF",
+        "Control blower speed"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 205,
+      "question": "Increasing blower speed will generally:",
+      "options": [
+        "Decrease cooling",
+        "Increase cooling",
+        "Stop compressor",
+        "Increase humidity"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 206,
+      "question": "Which component helps in dehumidification in AC?",
+      "options": ["Condenser", "Evaporator", "Compressor", "Expansion valve"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 207,
+      "question": "Dehumidification occurs when:",
+      "options": [
+        "Air passes over warm coil",
+        "Air passes over cold evaporator coil",
+        "Air passes through radiator",
+        "Air flows at high speed"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 208,
+      "question": "High humidity inside car cabin causes:",
+      "options": [
+        "Better comfort",
+        "Faster cooling",
+        "Fogging of glass",
+        "Lower temperature"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 209,
+      "question": "The device used to measure relative humidity is:",
+      "options": ["Barometer", "Hygrometer", "Anemometer", "Manometer"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 210,
+      "question": "Which of these increases humidity control efficiency?",
+      "options": [
+        "Higher evaporator temperature",
+        "Lower evaporator temperature",
+        "Lower blower speed always",
+        "Turning off AC"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 211,
+      "question": "The main purpose of a keyless entry system is to:",
+      "options": [
+        "Improve engine power",
+        "Enable remote locking/unlocking of doors",
+        "Increase fuel efficiency",
+        "Control HVAC system"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 212,
+      "question": "Which component sends the signal in a keyless entry system?",
+      "options": [
+        "Door actuator",
+        "Car ECU",
+        "Key fob (Transmitter)",
+        "Receiver motor"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 213,
+      "question": "Keyless entry systems generally operate using:",
+      "options": [
+        "Infrared waves",
+        "Bluetooth only",
+        "Radio Frequency (RF) signals",
+        "Sound waves"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 214,
+      "question": "Rolling code technology in keyless systems is used to:",
+      "options": [
+        "Increase signal range",
+        "Reduce battery usage",
+        "Prevent theft by code duplication",
+        "Improve door motor speed"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 215,
+      "question": "The main function of an anti-theft system is to:",
+      "options": [
+        "Increase car speed",
+        "Prevent unauthorized vehicle use",
+        "Improve braking",
+        "Improve suspension"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 216,
+      "question": "An engine immobilizer works by:",
+      "options": [
+        "Locking the steering wheel",
+        "Cutting fuel or ignition system",
+        "Locking the doors",
+        "Activating the horn"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 217,
+      "question": "Which of the following is an active anti-theft device?",
+      "options": [
+        "Steering wheel lock",
+        "Gear lock",
+        "Car alarm system",
+        "Sunshade"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 218,
+      "question": "Which sensor detects unauthorized entry into a car?",
+      "options": [
+        "Oxygen sensor",
+        "Door sensor",
+        "Temperature sensor",
+        "MAF sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 219,
+      "question": "Automatic door lock system locks doors when:",
+      "options": [
+        "Engine starts",
+        "Speed exceeds set limit",
+        "Brake applied",
+        "AC switched ON"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 220,
+      "question": "The central locking system is controlled by:",
+      "options": [
+        "Radiator",
+        "Body Control Module (BCM)",
+        "Alternator",
+        "ECU only"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 221,
+      "question": "The main function of park assist system is to:",
+      "options": [
+        "Increase braking power",
+        "Help driver park safely",
+        "Increase engine RPM",
+        "Boost battery power"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 222,
+      "question": "Park assist system uses which type of sensor most commonly?",
+      "options": [
+        "Temperature sensor",
+        "Ultrasonic sensor",
+        "Pressure sensor",
+        "Oxygen sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 223,
+      "question": "Park assist system gives warning through:",
+      "options": [
+        "Engine sound",
+        "Dashboard lights only",
+        "Beeps and display indication",
+        "Horn only"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 224,
+      "question": "Park assist sensors are usually mounted on:",
+      "options": [
+        "Roof of the car",
+        "Side mirrors",
+        "Front and rear bumpers",
+        "Inside tyres"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 225,
+      "question": "Automatic headlight dimming is mainly used to:",
+      "options": [
+        "Increase battery voltage",
+        "Prevent dazzling of oncoming vehicles",
+        "Make headlights brighter",
+        "Improve fuel economy"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 226,
+      "question": "Automatic headlight dimming mainly works based on:",
+      "options": [
+        "Vehicle speed",
+        "Ambient light and oncoming vehicle light intensity",
+        "Engine temperature",
+        "Steering angle"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 227,
+      "question": "Which sensor is used in automatic headlight dimming?",
+      "options": [
+        "Ultrasonic sensor",
+        "Light sensor / Photodiode",
+        "Oxygen sensor",
+        "Speed sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 228,
+      "question": "When an oncoming vehicle is detected, headlights switch from:",
+      "options": [
+        "Low beam to fog beam",
+        "Low beam to parking light",
+        "High beam to low beam",
+        "High beam to off"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 229,
+      "question": "The control of automatic headlight dimming is handled by:",
+      "options": [
+        "Ignition switch",
+        "Driver manually",
+        "Body Control Module (BCM)",
+        "Dashboard switch only"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 230,
+      "question": "Automatic headlight ON/OFF system switches headlights based on:",
+      "options": [
+        "Fuel level",
+        "Light intensity",
+        "Engine temperature",
+        "Battery voltage only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 231,
+      "question": "The time delay in automatic headlight system is mainly used to:",
+      "options": [
+        "Save fuel",
+        "Prevent frequent switching due to sudden light changes",
+        "Increase headlamp brightness",
+        "Reduce engine load"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 232,
+      "question": "Which sensor supports automatic ON/OFF headlights?",
+      "options": [
+        "Rain sensor",
+        "Light sensor",
+        "Speed sensor",
+        "Temperature sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 233,
+      "question": "Headlights usually turn ON automatically when:",
+      "options": [
+        "Sunlight is strong",
+        "Car is parked",
+        "Ambient light falls below a set level",
+        "Speed increases"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 234,
+      "question": "The “Follow-me-home” headlight feature is related to:",
+      "options": [
+        "Fog lights operation",
+        "Automatic delay OFF headlight",
+        "Brake light operation",
+        "Turn signal system"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 235,
+      "question": "GPS stands for:",
+      "options": [
+        "Global Position Sensor",
+        "Global Position System",
+        "Geographical Position Satellite",
+        "General Position System"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 236,
+      "question": "GPS system helps in:",
+      "options": [
+        "Engine tuning",
+        "Vehicle location tracking",
+        "Fuel injection",
+        "Airbag deployment"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 237,
+      "question": "GPRS is mainly used in cars for:",
+      "options": [
+        "Wireless braking system",
+        "Mobile data communication",
+        "Cooling system control",
+        "Engine lubrication"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 238,
+      "question": "GPRS stands for:",
+      "options": [
+        "Global Packet Radio Service",
+        "General Packet Routing System",
+        "Global Position Radio Service",
+        "General Position Routing System"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 239,
+      "question": "Which component receives GPS signals from satellites?",
+      "options": ["ECU", "GPS receiver/antenna", "BCM", "Engine sensor"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 240,
+      "question": "GPS requires how many satellites minimum for accurate positioning?",
+      "options": ["1", "2", "3", "4"],
+      "correctOptionIndex": 3
+    },
+
+    {
+      "id": 241,
+      "question": "Which system works without mobile network?",
+      "options": ["GPRS", "Bluetooth", "GPS", "Wi-Fi"],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 242,
+      "question": "GPS navigation mainly uses:",
+      "options": [
+        "Sound waves",
+        "Radio waves",
+        "Infrared waves",
+        "Magnetic waves"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 243,
+      "question": "GPS system accuracy mainly depends on:",
+      "options": [
+        "Vehicle color",
+        "Number of satellites visible",
+        "Battery voltage",
+        "Tyre pressure"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 244,
+      "question": "Sealed beam headlamp means:",
+      "options": [
+        "Bulb can be replaced separately",
+        "Entire unit is sealed and replaced together",
+        "Only lens is sealed",
+        "Reflector is open"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 245,
+      "question": "Main parts of sealed beam headlamp are:",
+      "options": [
+        "Bulb & battery",
+        "Lens, reflector, filament",
+        "Switch & relay",
+        "Fuse & horn"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 246,
+      "question": "Dazzle occurs due to:",
+      "options": ["Low beam", "High beam", "Parking light", "Fog lamp"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 247,
+      "question": "Anti-dazzle mirror helps reduce:",
+      "options": [
+        "Engine noise",
+        "Glare from rear vehicles",
+        "Fuel consumption",
+        "Headlight brightness"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 248,
+      "question": "Beam control in headlamps is achieved by:",
+      "options": [
+        "Adjusting headlamp angle",
+        "Changing colour",
+        "Changing battery",
+        "Changing horn"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 249,
+      "question": "Air bag inflates mainly during:",
+      "options": [
+        "Side impact",
+        "Rear collision",
+        "Frontal collision",
+        "Minor vibration"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 250,
+      "question": "Air bags inflate within:",
+      "options": [
+        "1 second",
+        "0.1 to 0.3 seconds",
+        "2 seconds",
+        "After engine stops"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 251,
+      "question": "Which sensor is used to detect crash for airbag deployment?",
+      "options": [
+        "Temperature sensor",
+        "Impact sensor",
+        "Oxygen sensor",
+        "Speed sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 252,
+      "question": "Which gas is commonly used for airbag inflation?",
+      "options": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon monoxide"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 253,
+      "question": "SRS stands for:",
+      "options": [
+        "Safety Restraint System",
+        "Supplemental Restraint System",
+        "Secure Restrain System",
+        "Safety Response System"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 254,
+      "question": "Seat belt prevents:",
+      "options": [
+        "Vehicle rollover",
+        "Occupant ejection during crash",
+        "Engine failure",
+        "Tyre burst"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 255,
+      "question": "Three-point seat belt includes:",
+      "options": [
+        "Lap belt only",
+        "Shoulder belt only",
+        "Lap and shoulder belt",
+        "Neck support"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 256,
+      "question": "Seat belt pretensioner function is to:",
+      "options": [
+        "Loosen belt",
+        "Tighten belt during collision",
+        "Protect engine",
+        "Activate air bag only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 257,
+      "question": "Which material is commonly used in seat belts?",
+      "options": ["Rubber", "Nylon", "Steel", "Cotton"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 258,
+      "question": "Load limiter in seat belt helps to:",
+      "options": [
+        "Increase belt force",
+        "Reduce chest injury",
+        "Increase speed",
+        "Prevent engine overheating"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 259,
+      "question": "Central locking system allows:",
+      "options": [
+        "Only driver door locking",
+        "All doors to be locked/unlocked together",
+        "Only boot door locking",
+        "Engine locking"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 260,
+      "question": "Central locking system works using:",
+      "options": [
+        "Hydraulic actuators",
+        "Pneumatic actuators",
+        "Electrical actuators",
+        "Mechanical rods only"
+      ],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 261,
+      "question": "Remote key system transmits signals via:",
+      "options": ["Wires", "RF waves", "Sound waves", "Light waves"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 262,
+      "question": "Main purpose of collapsible steering column is to:",
+      "options": [
+        "Improve steering efficiency",
+        "Absorb impact energy during crash",
+        "Increase vehicle speed",
+        "Reduce fuel consumption"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 263,
+      "question": "In a frontal crash, rigid steering column can:",
+      "options": [
+        "Protect driver",
+        "Increase driver injuries",
+        "Lock the brakes",
+        "Control vehicle direction"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 264,
+      "question": "Collapsible steering column uses:",
+      "options": [
+        "Solid steel rod",
+        "Breakaway sleeve / telescopic arrangement",
+        "Plastic shaft",
+        "Rubber coupling only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 265,
+      "question": "Purpose of Anti-lock Braking System (ABS) is to:",
+      "options": [
+        "Increase brake wear",
+        "Prevent wheel locking during braking",
+        "Increase stopping distance",
+        "Reduce fuel consumption"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 266,
+      "question": "ABS works by:",
+      "options": [
+        "Locking all wheels",
+        "Pumping brakes manually",
+        "Modulating brake pressure automatically",
+        "Switching off brakes"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 267,
+      "question": "Which sensor is used in ABS?",
+      "options": [
+        "Pressure sensor",
+        "Wheel speed sensor",
+        "Temperature sensor",
+        "Oxygen sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 268,
+      "question": "ABS mainly improves:",
+      "options": [
+        "Steering control during braking",
+        "Engine power",
+        "Air conditioning",
+        "Mileage"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 269,
+      "question": "Electronic Stability Control (ESC) is used to:",
+      "options": [
+        "Prevent engine overheating",
+        "Prevent skidding and loss of control",
+        "Improve air conditioning",
+        "Increase speed"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 270,
+      "question": "ESC functions by:",
+      "options": [
+        "Applying brakes to individual wheels",
+        "Turning off engine",
+        "Locking steering",
+        "Increasing tyre pressure"
+      ],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 271,
+      "question": "ESC uses which sensors?",
+      "options": [
+        "Engine RPM sensor only",
+        "Yaw rate, steering angle and wheel speed sensors",
+        "Fuel sensors only",
+        "Temperature sensors only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 272,
+      "question": "ESC mainly helps during:",
+      "options": [
+        "Straight driving",
+        "Driving in curves or slippery roads",
+        "Vehicle washing",
+        "Parking"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 273,
+      "question": "Which system works together with ABS to improve vehicle control?",
+      "options": ["Power steering", "ESC", "AC system", "Horn"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 274,
+      "question": "Which safety device reduces head and chest injuries?",
+      "options": ["Air bag", "Fuse", "GPS", "Tyre"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 275,
+      "question": "Which provides primary safety to vehicle occupants?",
+      "options": ["Seat belt", "Air bag", "ESC", "Central locking"],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 276,
+      "question": "Which system prevents car from rolling back on slopes?",
+      "options": ["Hill Hold Control", "Central locking", "ABS", "Air bag"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 277,
+      "question": "Automatic door locking usually activates when:",
+      "options": [
+        "AC is turned off",
+        "Airbags deploy",
+        "Speed crosses preset limit",
+        "Headlights turn on"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 278,
+      "question": "Automatic unlocking of doors usually happens when:",
+      "options": [
+        "AC is switched ON",
+        "Airbags deploy",
+        "Speed increases",
+        "Headlights turn ON"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 279,
+      "question": "Which sensor supports automatic door locking system?",
+      "options": [
+        "Oxygen sensor",
+        "Speed sensor",
+        "Rain sensor",
+        "Temperature sensor"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 280,
+      "question": "Park assist sensors are commonly activated when:",
+      "options": [
+        "Ignition is OFF",
+        "Reverse gear is engaged",
+        "Headlights are ON",
+        "AC is ON"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 281,
+      "question": "Hill Hold Control system is mainly useful during:",
+      "options": [
+        "High-speed driving",
+        "Parking on flat roads",
+        "Starting the vehicle on slopes",
+        "Engine overheating"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 282,
+      "question": "Hill Hold Control prevents:",
+      "options": [
+        "Engine stalling",
+        "Wheel locking",
+        "Vehicle rolling backward",
+        "Tyre wear"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 283,
+      "question": "Hill Hold Control works in coordination with:",
+      "options": [
+        "ABS and ESC",
+        "Air conditioning",
+        "Fuel injection system",
+        "Lighting system"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 284,
+      "question": "Which sensor helps Hill Hold Control detect incline?",
+      "options": [
+        "Temperature sensor",
+        "Yaw rate sensor",
+        "Inclination / acceleration sensor",
+        "Oxygen sensor"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 285,
+      "question": "Hill Hold Control temporarily applies:",
+      "options": ["Throttle", "Clutch", "Brakes", "Steering lock"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 286,
+      "question": "Traction Control System (TCS) is designed to:",
+      "options": [
+        "Improve engine cooling",
+        "Prevent wheel spin during acceleration",
+        "Increase top speed",
+        "Reduce brake wear"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 287,
+      "question": "Traction Control System mainly works during:",
+      "options": [
+        "Braking",
+        "Cornering",
+        "Acceleration on slippery roads",
+        "Parking"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 288,
+      "question": "TCS reduces wheel spin by:",
+      "options": [
+        "Increasing fuel supply",
+        "Applying brakes or reducing engine power",
+        "Increasing tyre pressure",
+        "Locking steering"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 289,
+      "question": "Which system works closely with Traction Control System?",
+      "options": ["ABS", "Air conditioning", "GPS", "Central locking"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 290,
+      "question": "Traction Control improves:",
+      "options": [
+        "Fuel consumption only",
+        "Vehicle stability and safety",
+        "Engine noise",
+        "AC performance"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 291,
+      "question": "Electronic Brake-force Distribution (EBD) is used to:",
+      "options": [
+        "Increase brake pad life",
+        "Distribute braking force optimally",
+        "Lock all wheels together",
+        "Increase braking distance"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 292,
+      "question": "EBD works along with:",
+      "options": ["ABS", "ESC", "TCS", "All of the above"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": 293,
+      "question": "EBD adjusts braking force based on:",
+      "options": [
+        "Vehicle color",
+        "Load distribution and road condition",
+        "Fuel level",
+        "Air pressure only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 294,
+      "question": "EBD improves braking performance especially during:",
+      "options": [
+        "Straight driving",
+        "Sudden acceleration",
+        "Uneven load conditions",
+        "Idling"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 295,
+      "question": "Which braking system prevents rear wheel lockup under heavy braking?",
+      "options": ["ABS", "EBD", "TCS", "ESC"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 296,
+      "question": "Brake Assist System (BAS) is designed to:",
+      "options": [
+        "Increase engine power",
+        "Provide maximum braking during emergency",
+        "Reduce brake wear",
+        "Improve steering"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 297,
+      "question": "Brake Assist detects emergency braking by sensing:",
+      "options": [
+        "Brake pedal speed",
+        "Brake temperature",
+        "Vehicle speed only",
+        "Engine RPM"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 298,
+      "question": "Brake Assist helps reduce:",
+      "options": [
+        "Stopping distance",
+        "Fuel consumption",
+        "Engine noise",
+        "Tyre pressure"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 299,
+      "question": "Brake Assist works effectively when combined with:",
+      "options": ["ABS", "GPS", "AC system", "Central locking"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 300,
+      "question": "Which system provides extra braking force automatically?",
+      "options": ["BAS", "ESC", "TCS", "EBD"],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 301,
+      "question": "Adaptive Cruise Control (ACC) helps in:",
+      "options": [
+        "Manual speed control",
+        "Maintaining constant speed only",
+        "Maintaining safe distance from vehicle ahead",
+        "Parking assistance"
+      ],
+      "correctOptionIndex": 2
+    },
+    {
+      "id": 302,
+      "question": "ACC uses which sensor to detect vehicles ahead?",
+      "options": [
+        "Temperature sensor",
+        "Radar or camera",
+        "Oxygen sensor",
+        "Speedometer"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 303,
+      "question": "Adaptive Cruise Control can:",
+      "options": [
+        "Increase speed automatically",
+        "Apply brakes automatically",
+        "Steer the vehicle",
+        "Change gears"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 304,
+      "question": "ACC mainly improves:",
+      "options": [
+        "Driver comfort and safety",
+        "Fuel quality",
+        "Engine temperature",
+        "Air conditioning"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 305,
+      "question": "ACC is most useful during:",
+      "options": [
+        "City parking",
+        "Highway driving",
+        "Off-road driving",
+        "Vehicle servicing"
+      ],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 306,
+      "question": "Lane Departure Warning System (LDWS) alerts the driver when:",
+      "options": [
+        "Vehicle exceeds speed limit",
+        "Vehicle drifts out of lane unintentionally",
+        "Fuel level is low",
+        "Tyre pressure is low"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 307,
+      "question": "LDWS uses which technology to detect lane markings?",
+      "options": [
+        "Ultrasonic sensors",
+        "Camera-based vision system",
+        "Pressure sensors",
+        "Radar only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 308,
+      "question": "Lane Departure Warning is mainly a:",
+      "options": [
+        "Comfort feature",
+        "Safety feature",
+        "Entertainment feature",
+        "Navigation feature"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 309,
+      "question": "Lane Keeping Assist differs from LDWS because it:",
+      "options": [
+        "Only warns driver",
+        "Actively steers vehicle back into lane",
+        "Turns off engine",
+        "Applies brakes only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 310,
+      "question": "Which system provides steering input to keep vehicle in lane?",
+      "options": ["LDWS", "ACC", "Lane Keeping Assist", "ABS"],
+      "correctOptionIndex": 2
+    },
+
+    {
+      "id": 311,
+      "question": "Blind Spot Detection system warns the driver about:",
+      "options": [
+        "Engine overheating",
+        "Vehicles in blind spots",
+        "Low fuel",
+        "Tyre wear"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 312,
+      "question": "Blind Spot Detection uses:",
+      "options": [
+        "Ultrasonic or radar sensors",
+        "Oxygen sensors",
+        "Temperature sensors",
+        "Speed sensors only"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 313,
+      "question": "Blind Spot Detection warning is usually given through:",
+      "options": [
+        "Horn sound",
+        "Mirror indicator or alert sound",
+        "Engine shutdown",
+        "Brake application"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 314,
+      "question": "Blind Spot Detection is most useful during:",
+      "options": [
+        "Parking",
+        "Lane changing",
+        "Engine start",
+        "Vehicle servicing"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 315,
+      "question": "Which safety system helps avoid side collisions?",
+      "options": ["Blind Spot Detection", "ABS", "ESC", "EBD"],
+      "correctOptionIndex": 0
+    },
+
+    {
+      "id": 316,
+      "question": "Automatic Emergency Braking (AEB) system is designed to:",
+      "options": [
+        "Increase speed",
+        "Prevent or mitigate collisions",
+        "Improve fuel economy",
+        "Control AC"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 317,
+      "question": "AEB activates when:",
+      "options": [
+        "Driver presses accelerator",
+        "Collision risk is detected",
+        "Vehicle is parked",
+        "Headlights are ON"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 318,
+      "question": "AEB uses which sensors to detect obstacles?",
+      "options": [
+        "Radar, camera, or LiDAR",
+        "Temperature sensor",
+        "Fuel sensor",
+        "Oxygen sensor"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 319,
+      "question": "Automatic Emergency Braking mainly reduces:",
+      "options": [
+        "Fuel consumption",
+        "Collision severity",
+        "Engine noise",
+        "AC load"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 320,
+      "question": "Which system automatically applies brakes in emergency?",
+      "options": ["ABS", "AEB", "TCS", "ESC"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 321,
+      "question": "Forward Collision Warning (FCW) system provides:",
+      "options": [
+        "Automatic steering",
+        "Driver warning of possible frontal collision",
+        "Automatic braking always",
+        "Navigation guidance"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 322,
+      "question": "FCW generally works with:",
+      "options": [
+        "GPS only",
+        "Radar or camera sensors",
+        "Fuel injection system",
+        "ABS only"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 323,
+      "question": "FCW alerts the driver using:",
+      "options": [
+        "Visual and audible warnings",
+        "Engine shutdown",
+        "Brake application only",
+        "Steering lock"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 324,
+      "question": "FCW differs from AEB because FCW:",
+      "options": [
+        "Applies brakes automatically",
+        "Only warns driver",
+        "Controls steering",
+        "Improves AC"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 325,
+      "question": "Which system actively intervenes to avoid collision?",
+      "options": ["FCW", "AEB", "LDWS", "BSD"],
+      "correctOptionIndex": 1
+    },
+
+    {
+      "id": 326,
+      "question": "Driver Drowsiness Detection system monitors:",
+      "options": [
+        "Engine temperature",
+        "Steering behavior and eye movement",
+        "Fuel level",
+        "Tyre pressure"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 327,
+      "question": "Driver Drowsiness Detection aims to:",
+      "options": [
+        "Increase speed",
+        "Prevent accidents due to fatigue",
+        "Improve fuel economy",
+        "Control headlights"
+      ],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 328,
+      "question": "Drowsiness detection system gives alert through:",
+      "options": [
+        "Warning sound or display message",
+        "Engine shutdown",
+        "Brake locking",
+        "Steering lock"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": 329,
+      "question": "Which system improves safety by monitoring driver alertness?",
+      "options": ["ACC", "Drowsiness Detection", "ESC", "ABS"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": 330,
+      "question": "Driver assistance systems mainly aim to:",
+      "options": [
+        "Replace driver completely",
+        "Improve safety and comfort",
+        "Increase engine power",
+        "Reduce vehicle cost"
+      ],
+      "correctOptionIndex": 1
+    }
   ]
-    
-  
 }
-
